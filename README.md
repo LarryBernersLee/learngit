@@ -7,3 +7,4 @@ git is a nice way to manage codes
 Yes,create and switch to a branch is QUICK and easy.
 
 
+master branch add info
