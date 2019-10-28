@@ -3,6 +3,5 @@ A experimental repo for learning git
 
 git is a nice way to manage codes
 
-Yes,create and switch to a branch is quick and easy
+Yes,create AND switch to a branch is QUICK and easy
 
-我and我ta祖国
